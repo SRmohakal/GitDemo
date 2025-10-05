@@ -1,3 +1,3 @@
 # GitDemo
 This is for learning purpose only. <br>
-This is Shourov Roy.
+Auther - Shourov Roy
